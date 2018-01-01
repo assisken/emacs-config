@@ -1,0 +1,111 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/assisken/ruby/rails_projects/" . "anime_site/")
+ ("/home/assisken/ruby/" . "rails_projects/")
+ ("/home/assisken/python/" . "csync/")
+ ("/home/assisken/.emacs.d/" . "plugins/")
+ ("/home/assisken/.config/" . "awesome/")
+ ("/home/assisken/lua/answernator/" . "commands/")
+ ("/home/" . "assisken/")
+ ("/" . "home/")
+ ("/home/assisken/" . ".config/")
+ ("/home/assisken/lua/answer_old/" . "answernator/")
+ ("/home/assisken/lua/" . "answernator/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/assisken/.config/awesome/"
+ "/home/assisken/.config/i3/"
+ "/home/assisken/.bin/"
+ "/home/assisken/"
+ "/home/assisken/.emacs.d/"
+ "/home/assisken/ruby/rails_projects/anime_site/app/controllers/"
+ "/home/assisken/ruby/rails_projects/anime_site/"
+ "/home/assisken/.config/openbox/"
+ "/home/assisken/mega/work/PycharmProjects/assisken/"
+ "/home/assisken/mega/work/PycharmProjects/assisken/csync/"
+ "/home/assisken/python/csync/"
+ "/home/assisken/lua/answernator/"
+ "/home/assisken/.emacs.d/plugins/"
+ "/home/assisken/lua/answernator/commands/"
+ "/home/assisken/lua/answer_old/answernator/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "keyboard.lua"
+ "config"
+ "morrowind"
+ ".xinitrc"
+ "pre-init.el"
+ "init.el"
+ "anime_controller.rb"
+ "Gemfile"
+ "application_controller.rb"
+ "user.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/assisken/.config/awesome/" (23110 38649 723881 797000) "../" "functions.lua" "themes/" "rc.lua" "keyboard.lua" "./")
+
+ ("/home/assisken/.config/i3/" (23110 37547 834899 885000) "../" "config" "./")
+
+ ("/home/assisken/.config/" (23110 37057 405714 678000) "nemo/" "baloofilerc" "session/" "leagueoflegends.conf" "gtkrc-2.0" "Thunar/" "Unreal Engine/" "chromium/" "kcmdisplayrc" "MonoGame/" "plasmarc" "discordptb/" "unity3d/" "Trolltech.conf" "VirtualBox/" "khotkeysrc" "Sandbox Interactive GmbH/" "autostart-scripts/" "filezilla/" "bluedevilglobalrc" "systemd/" "gedit/" "plasma-locale-settings.sh" "ristretto/" "startupconfigfiles" "kdebugrc" "Genymobile/" "streamlink-twitch-gui/" "lxsession-default-apps/" "skypeforlinux/" "dunst/" "ktimezonedrc" "Risk_of_Rain/" "../" "epiphany/" "kdeglobals" "weston.ini" "ksmserverrc" "matplotlib/" "goa-1.0/" "gconf/" "kwinrc" "kactivitymanagerdrc" "pulse/" "i3status/" "i3/" "user-dirs.locale" "tint2/" "qt5ct/" "konquerorrc" "krunnerrc" "google-chrome/" "deadbeef/" "menus/" "user-dirs.dirs" "antimicro/" "kcminputrc" "powermanagementprofilesrc" "plasma-org.kde.plasma.desktop-appletsrc" "whats-app-nativefier-7bbd2c/" "kmixrc" "kdeveloprc" "gtk-2.0/" "Epic/" "netbeans/" "startupconfigkeys" "gnome-session/" "pcmanfm-qt/" "csync/" "katevirc" "Atom/" "pacaur/" "cinnamon-session/" "openmw/" "QtProject.conf" "tox/" "Skype/" "kwalletrc" "orage/" "startupconfig" "konsolerc" "latexila/" "ranger/" "awesome/" "caja/" "nautilus/" "mpv/" "kateschemarc" "lxqt/" "gthumb/" "libreoffice/" "eog/" "sublime-text-3/" "StardewValley/" "VK/" "yandex-disk/" "kde.org/" "session-state/" "lxsession" "evolution/" "kglobalshortcutsrc" "terminator/" "ankama/" "plasma-localerc" "plasmashellrc" "htop/" "discord/" "Hero_Siege/" "i3blocks/" "totem/" "dolphinrc" "Ankama/" "Mousepad/" "vlc/" "VA_11_Hall_A/" "gprename/" "gxkb/" "filemanager-actions/" "xfce4/" "kwinrulesrc" "mc/" "jstest-gtk/" "evince/" "konq_history" "mimeapps.list" "deluge/" "parcellite/" "qterminal.org/" "katepartrc" "BetterDiscord/" "gtkrc" "discordcanary/" "yelp/" "dconf/" "kscreenlockerrc" "kconf_updaterc" "doublecmd/" "./" "cef_user_data/" "openbox/" "autostart/" "monitors.xml" "pavucontrol.ini" "QOpenVPN/" "caja-actions/" "opera/" "akregatorrc" "epdfview/" "ibus/" "ksplashrc" "gtk-3.0/" "enchant/" "configstore/" "kded_device_automounterrc" "gtranslator/" "systemsettingsrc" "gnome-mplayer/" "ksysguardrc")
+
+ ("/home/assisken/" (23110 38915 70754 161000) ".bin/" ".PlayOnLinux/" ".irb-history" "Larian Studios/" ".epsxe/" ".gtkrc-2.0-kde4" ".prefs/" "apps/" ".tor-browser/" ".pki/" ".emacc~" ".kde4/" ".nanorc" "Untitled.xcf" ".smex-items" ".xfce4-session.verbose-log.last" ".Skype/" ".adom.data/" ".loki/" ".netbeans/" ".wget-hsts" ".zsh_history" ".android/" ".steam/" "llvm-libs-3.9.0-3-x86_64.pkg.tar.xz.sig" ".gksu.lock" "win1/" ".examplelauncher/" ".mozilla/" ".PyCharm2017.2/" "nano.save" ".mplayer/" ".Genymobile/" ".sqldeveloper/" ".emacc" "anime_site/" "RubymineProjects/" ".keyboard" ".cinnamon/" ".IdeaIC2017.1/" "mati.su/" ".minecraft/" ".moonchild productions/" ".gimp-2.8/" ".mono/" "controller/" ".IntelliJIdea2017.3/" ".zcompdump-darch-5.4.1" "ds4drv/" ".xinitrc" ".RubyMine2017.1/" "production/" ".aliases" "VirtualBox VMs/" ".IdeaIC2017.2/" "js/" "clang-3.9.0-3-x86_64.pkg.tar.xz.sig" "music_back/" "config.yml" ".qjoypad3/" ".tlauncher/" "java_error_in_CL_5193.log" ".CLion2016.3/" ".oh-my-zsh/" ".appdata/" ".java/" ".zsh-update" ".cmpdl_temp/" "back/" ".wine/" ".CLion2017.2/" ".macromedia/" ".mkshrc" "win/" ".viminfo" ".vidalia/" ".FBReader/" "list" ".rnd" ".xdg_menu_cache/" "$@" ".retroshare/" ".pry_history" ".gitconfig" ".x11vnc/" ".XCompose.save" "tmp/" ".sqlite_history" "python/" ".vimrc" ".emacs~" "control.txt" ".RubyMine2016.3/" ".languagetool-ooo.cfg" "GOG Games/" ".bashrc" "rails-handbook-master/" ".CLion2017.1/" "2017-09-14-185346_1920x1080_scrot.png" "mega/" ".dropbox/" ".steampath" "Documents/" ".diablo/" ".zcompdump-darch-5.3.1" ".oracle_jre_usage/" ".cache/" "end" ".config/" "genymotion-log.zip" "osu!/" ".gnupg/" "mythemetint2rc" "untitled folder/" "Public/" "lua/" ".ssh/" ".tor/" ".zlogin" "todos.org" ".litconfig" "dead.letter" ".Xmodmap.save" ".rvm/" ".atom/" ".lesshst" ".XCompose" "java/" "Videos/" ".i3/" ".gtk-bookmarks" ".litdb.git/" ".mysql_history" ".dropbox-dist/" "tlauncher/" "spacemacs.org/" ".Xdefaults" ".fehbg" "Music/" "cowo/" ".Xmodmap" ".docker/" "server/" ".gnome/" "maps" ".private/" "Templates/" ".retroshare_back/" "c/" "ruby/" ".gem/" ".luarocks/" ".purple/" "spacemacs/" ".xprofile" ".spacemacs" ".bundle/" ".zcompdump-darch-5.4.2" "django_sites/" "-booklet.ps" ".zshrc.pre-oh-my-zsh" ".gradle/" ".bash_logout" "orgmode.org/" "PlayOnLinux's virtual drives/" ".electron/" "Pictures/" ".test.txt.swp" ".ftblauncher/" ".python_history" ".adobe/" ".themes/" ".WebStorm2017.2/" ".hplip/" ".local/" "46137355" ".zshrc" ".dbus/" ".gtkrc-2.0" ".vnc/" ".emacs.d/" ".fltk/" "projects/" "style.css" ".ICEauthority" ".windows-serial" "yandexdisk/" ".subversion/" ".bash_history" "minecraft/" ".thumbnails/" ".icons/" ".ncftp/" ".q3a/" "Dropbox/" ".ViberPC/" ".bash_profile" ".mputils/" ".codelite/" ".ipython/" ".#.smex-items" "Вопросы к зачету по уставам г.docx" ".gvfs/" "Desktop/" ".esd_auth" ".pulse-cookie" "wine-1.9.24-1-x86_64.pkg.tar.xz.sig" "PearX/" "rvm-install" ".profile" "Downloads/" ".zprofile" "ds4xbox" "webprog/" ".xfce4-session.verbose-log" "forge/" ".w3m/" "android/" "rails/" "DigiCertHighAssuranceCA-3.crt" ".putty/" ".steampid" "bookmarks_12_30_16.html" "wine-1.9.22-1-x86_64.pkg.tar.xz.sig" "venv/" ".Xauthority" ".mtab.fuseiso" ".npm/" "../" "./")
+
+ ("/home/assisken/.bin/" (23023 172 89714 4000) "kancolle" "steam" "appfinder" "wakfu" "../" "make_iso" "my_i3status.sh" "nightly" "va11" "valgrind.sh" "rimworld" "_vivaldi" "screenshot" "shovel_knight" "_osu" "cowo" "rubymine" "steam_wine" "factorio" "telegram" "keyindicator" "autoclick" "pearx" "startx.daemon" "stardew valley" "./" "planescape" "multimc" "ftb" "killapp" "darkest_dungeon")
+
+ ("/home/assisken/.cache/.fr-p9nchS/XMLParser/src/" (22999 50828 679279 578000) "../" "XMLParser.hpp" "./")
+
+ ("/home/assisken/.emacs.d/" (22992 3340 572036 97000) "keyboard.el" "init.el~" "projectile.cache" "pre-init.el~" "games/" "../" "ergoemacs-extras/" "user.el" ".mc-lists.el" "ido.last" "recentf~" "ac-comphist.dat" "recentf" "#user.el#" "functions.el" "elpa/" "plugins/" "projectile-bookmarks.eld" "pre-init.el" "package_load.el" "auto-save-list/" "thumbs/" "./" "user.el~" "snippets/" "ergoemacs.el" "init.el" "requires.el" "requires.el~")
+
+ ("/home/assisken/ruby/rails_projects/anime_site/app/controllers/" (22932 9997 981160 753000) "../" "concerns/" "anime_controller.rb" "application_controller.rb" "./" "welcome_controller.rb")
+
+ ("/home/assisken/ruby/rails_projects/anime_site/app/" (22874 1034 655429 742000) "helpers/" "../" "views/" "mailers/" "channels/" "models/" "assets/" "./" "jobs/" "controllers/")
+
+ ("/home/assisken/ruby/rails_projects/anime_site/" (22887 53515 153656 767000) "test.txt" "README.md" ".git/" "public/" "../" "vendor/" "log/" "Gemfile" "anime_site.sublime-workspace" ".idea/" "test/" "tmp/" "Rakefile" "app/" "text.txt" "lib/" "db/" "anime_site.sublime-project" "package.json" "config/" "bin/" "config.ru" "./" ".gitignore" "Gemfile.lock")
+
+ ("/home/assisken/ruby/rails_projects/" (22874 1034 602096 410000) "anime_site/" "../" "./")
+
+ ("/home/assisken/ruby/" (22908 30846 240861 409000) "EL_random.rb" "discord-bot-ruby-back/" "setup/" "read.rb" "search.rb" "test.txt" "teleup/" "menu-editor/" "myfile.txt" "cherchenie/" "arnex-bot/" "smiigbot/" "dice-bot/" "backup/" "ani_gen.rb" "tuturu.rb" "test.json" "../" "maruku.rb" "test.rb" "EL_random_oop.rb" "test/" "smig/" "discord-bot-ruby/" "Gorners_tab.rb" "rails_projects/" "GUI/" "OOP/" "elite dangerous/" "http/" "interestingthing2.rb" "chapter1.txt" "text.txt" "fb2appender/" "katakana.rb" "interestingthing.rb" "telegram/" "zaycev-wrapper/" "metadata/" "ruby-style-guide/" "flags.rb" "dark32-bot/" "./" "ruby_and_files.rb" "katakana.txt" "math.rb" "vk.rb" "san.rb")
+
+ ("/home/assisken/lua/answernator/commands/" (22912 8851 521722 255000) "command-example.lua" "вк.cmd.lua" "facebook.cmd.lua" "../" "info.cmd.lua" "inviteme.cmd.lua" "stats.cmd.lua" "user.cmd.lua" "rules.cmd.lua" "help.cmd.lua" "./" "random.cmd.lua")
+
+ ("/home/assisken/lua/answernator/" (22912 8851 521722 255000) "README.md" ".git/" "../" "modules/" "LICENSE" ".gitattributes" "main.lua" "answernator.sublime-workspace" "logs/" "commands/" "lib/" "config.json" "gateway.json" "answernator.sublime-project" "users/" "langs/" "./" ".gitignore" "defaults.json" "deps/" ".gitmodules" "guilds/")
+
+ ("/home/assisken/python/csync/" (22916 22524 68859 907000) "../" ".idea/" "csync/" "tests/" "setup.py" "logs.txt" "./" ".gitignore")
+
+ ("/home/assisken/mega/work/PycharmProjects/assisken/csync/" (22916 22524 68859 907000) "../" ".idea/" "csync/" "tests/" "setup.py" "logs.txt" "./" ".gitignore")
+
+ ("/home/assisken/mega/work/PycharmProjects/assisken/" (22926 58918 112740 368000) "maziy/" "Lesson1/" "test.txt" "anime365py/" "calculate_func.py" "telebot/" "gorner_tab.py" "vectors.py" "test.json" "../" "data.json" "vkNotification/" "telegram-bot/" "back/" "sqlite/" "shikibriki/" "__pycache__/" "discord.py/" "endless_legend_random.build/" "csync/" "test.py" "graph.py" "mylist/" "discord-bot/" "sort_tittles.py" "gui/" "telegram/" "metadata/" "endless_legend_random.py" "wanipy/" "./")
+
+ ("/home/assisken/.config/openbox/" (22915 38852 621736 277000) "environment" "../" "rc.xml" "lxqt-rc.xml" "#rc.xml#" "menu.xml" "./" "autostart")
+
+ ("/home/assisken/mega/" (22729 53255 228979 74000) "TEXT_5B_Str_135-136_Alexander_Grem_Bell_RUS.pdf" "Набросок.odt" "Camera Uploads/" "dict_ru_ru-aot-0-4-0.oxt" "sublime-text-3.zip" "sacred/" "../" "Android/" "back/" "Linux/" "civ5russian.tar.gz" "file.txt" "Music/" "Ivan 1.7.tar.gz" "osu/" "work/" ".debris/" "cit-dz.py" "./" "Downloads/" "Английский.txt")
+
+ ("/home/assisken/mega/work/" (22836 29297 293470 251000) "EL_random.rb" "server.rar" "CLion/" "ext2_saved/" "vkNotification_backup/" "tumblr" "Ruby/" "www/" "$RECYCLE.BIN/" "../" "vkNotification/" "PycharmProjects/" "test.py" "minecraft_mod/" "lua/" "terminal.glue" "java/" "EL_random2.rb" "pas/" "discord-bot/" "minecraft_server.1.7.10.jar" "work_backup/" "lost+found/" "server/" "NotifyRuby/" "System Volume Information/" "./" "cpp/" "Ruby_Random/" "rails/" "Notify/")
+
+ ("/home/assisken/mega/work/PycharmProjects/" (22630 42462 980165 459000) "../" "assisken/" "untitled/" "./")
+
+ ("/home/assisken/mega/work/PycharmProjects/assisken/csync/csync/" (22900 56737 10496 98000) "utils.py" "../" "logger.py" "global_variables.py" "__pycache__/" "run.py" "config.py" "__init__.py" "logs.txt" "./" "core.py")
+
+ ("/home/assisken/python/" (22899 15904 166736 158000) "maziy/" "Lesson1/" "test.txt" "anime365py/" "calculate_func.py" "telebot/" "gorner_tab.py" "vectors.py" "test.json" "../" "data.json" "vkNotification/" "telegram-bot/" "back/" "sqlite/" "shikibriki/" "__pycache__/" "discord.py/" "endless_legend_random.build/" "csync/" "test.py" "graph.py" "mylist/" "discord-bot/" "sort_tittles.py" "gui/" "telegram/" "metadata/" "endless_legend_random.py" "wanipy/" "./")
+
+ ("/home/assisken/.emacs.d/plugins/" (22904 26983 676108 685000) "linum+.el" "../" "table.el" "visws.el" "./")
+
+ ("/home/" (22630 36452 503336 605000) "../" "assisken/" "lost+found/" "./")
+
+ ("/home/assisken/lua/answer_old/answernator/" (22849 14013 196217 315000) "README.md" ".git/" "../" "LICENSE" ".gitattributes" "lib/" "assets/" "commands.lua" "bot.lua" "./" ".gitignore" ".gitmodules")
+
+ ("/home/assisken/lua/answer_old/" (22849 14003 713009 37000) "../" "answernator/" "./")
+
+ ("/home/assisken/lua/" (22849 13920 664104 740000) "../" "answernator/" "./" "answer_old/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

@@ -1,0 +1,98 @@
+((("spawn" .
+   [0 0 1 0 0])
+  ("awful" .
+   [0 0 1 0 0])
+  ("global-undo-tree-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("ruby" .
+   [1 0 0 0])
+  ("robe" .
+   [1 0 0 0])
+  ("require" .
+   [0 0 0 0 0 0 1])
+  ("global-whitespace-mode" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("global-whitespace-" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("bold" .
+   [1 0 0 0])
+  (":weight" .
+   [0 0 0 0 0 0 1])
+  (":foreground" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("whitespace-space" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("set-face-attribute" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1])
+  ("nil" .
+   [2 0 0])
+  ("tab-mark" .
+   [1 0 0 0 0 0 0 0])
+  ("newline-mark" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("whitespace-display-mappings" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("whitespace-display-table" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("whitespace" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("underline" .
+   [0 0 0 0 0 0 1 0 0])
+  ("whitespace-newline" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1])
+  ("Whitespaces" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("newline" .
+   [0 0 0 0 1 0 1])
+  ("whitespace-style" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("w" .
+   [4])
+  ("show-paren-style" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("setq" .
+   [7 0 0 0])
+  ("cd-absolute" .
+   [0 0 1 0 0 0 0 0 0 0 0])
+  ("cddr" .
+   [0 0 1 0])
+  ("dadadadwadsawdasdwa" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("projectile-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 1])
+  ("global-set-key" .
+   [1 0 0 0 0 0 0 0 0 1 1 0 0 2])
+  ("kbd" .
+   [3 0 1])
+  ("mode-specific-map" .
+   [1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0])
+  ("define-key" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("key-translation-map" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("mule-keymap" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("cdr" .
+   [1 0 0])
+  ("c" .
+   [2])
+  ("cob" .
+   [1 0 3])
+  ("command" .
+   [1 0 0 0 0 0 0])
+  ("yas-expand-from-trigger-key" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("yas-expand" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("yas-expand-snippet" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("co" .
+   [1 0])
+  ("load-user-file" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("visible-whitespace-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("/" .
+   [1])
+  ("space-mark" .
+   [1 0 0 0 0 0 0 0 0 0])))
